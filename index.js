@@ -30,6 +30,7 @@ console.log(superheroes);
 const cities = ["New York", "San Francisco"];
 
 cities.unshift("Bostoni", "Chicagooo");
+cities.unshift("bostoni", "Chicago");
 // => 4
 
 console.log(cities);
