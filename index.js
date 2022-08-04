@@ -21,7 +21,7 @@ arrayListing();
 
 const superheroes = ["Catwoman", "She-Hulk", "Jessica Jones"];
 
-superheroes.push("Wonder Woman");
+superheroes.push("Wondering Woman");
 // => 4
 
 console.log(superheroes);
