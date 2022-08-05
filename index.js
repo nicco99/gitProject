@@ -40,7 +40,8 @@ const adresses = {
     },
     name: "nicholas",
     age: 22*10,
-    course: "cs"
+    course: "cs",
+    work: "developer"
 }
 //when a return value is required for a key value 
 //we can use brackets to denote that
