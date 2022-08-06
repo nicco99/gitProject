@@ -1,7 +1,7 @@
 const subjects = ["maths","chem", "kiswa", "english"];
 console.log(subjects.length);
 
-subjects[1] = "geo";
+subjects[1] = "geology";
 
 console.log(subjects);
 
